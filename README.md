@@ -16,7 +16,7 @@
 
 - 📫 How to reach me:
    - Discord: @lepehn
-   - Steam: @Lepehn
+   - Steam: [@Lepehn](https://steamcommunity.com/id/Lepehn/)
 
  - ⚡ Fun fact:
     - I compose music
