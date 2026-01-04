@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on
-   - Lies of P Checklist
-   - Bloodborne Checklist
-   - Atomic Heart Checklist
-   - The Elder Scrolls V: Skyrim Checklist
-   - 
+   - [Lies of P Checklist](https://lepehn.github.io/lies-of-p-checklist/)
+   - [Bloodborne Checklist](https://lepehn.github.io/bloodborne-checklist/)
+   - [Atomic Heart Checklist](https://lepehn.github.io/atomic-heart-checklist)
+   - [The Elder Scrolls V: Skyrim Checklist](https://lepehn.github.io/the-elder-scrolls-skyrim-checklist/)
+   - [Stellar Blade Checklist - Not Fully Complete](https://lepehn.github.io/stellar-blade-checklist/)
+   - [Alan Wake II Checklist - Not Fully Complete](https://lepehn.github.io/alan-wake-2-checklist/)
+ 
 - 🌱 I’m currently learning
    - HTML
    - CSS
