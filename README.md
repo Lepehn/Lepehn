@@ -10,8 +10,8 @@
       - [Stellar Blade Checklist - Not Fully Complete](https://lepehn.github.io/stellar-blade-checklist/)
       - [The Elder Scrolls V: Skyrim Checklist](https://lepehn.github.io/the-elder-scrolls-skyrim-checklist/)
 
-For a list of all my checklist see here
-[Checklist](https://github.com/Lepehn/LepehnsGameChecklists)
+     For a list of all my checklist see here
+      [Checklist](https://github.com/Lepehn/LepehnsGameChecklists)
  
 - 🌱 I’m currently learning
    - HTML
